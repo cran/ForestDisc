@@ -1,0 +1,7 @@
+91b9c4d188221bedd45f8fd9622037eb *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+52752277862bc452e685ce502e936674 *R/ForestDisc_functions.R
+ef7ee657e9cf0cf3715c8f8ebe97b566 *man/Extract_cont_splits.Rd
+b54e0f24d8efda324e82e97029a975dd *man/ForestDisc.Rd
+c14487a17aeb7999c7a997c42427b4ed *man/RF2Selectedtrees.Rd
+b761a07d290c413d4c1d62c61a908b5f *man/Select_cont_splits.Rd
